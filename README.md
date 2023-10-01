@@ -1,7 +1,7 @@
 # How to Configure Azure Databricks Unity Catalog using Terraform
 [![Terraform](https://img.shields.io/badge/terraform-v1.5+-blue.svg)](https://www.terraform.io/downloads.html)
 
-Blog Part 1--> 
+Blog Part 1--> https://gmusumeci.medium.com/how-to-configure-azure-databricks-unity-catalog-with-terraform-part-1-74be88c1c2d7
 
 ## Code creates:
 
