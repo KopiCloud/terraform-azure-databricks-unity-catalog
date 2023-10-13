@@ -4,7 +4,7 @@
 
 // Create Databricks Access Connector for Unity Catalog
 resource "azurerm_databricks_access_connector" "unity" {
-  name                = "${lower(replace(var.company," ","-"))}-${var.app_name}-${var.environment}-${var.shortlocation}-databricks-mi"
+  name                = "${lower(replace(var.company," ","-"))}-${var.app_name}-${var.environment}-${var.shortlocation}-databricks-unity-mi"
   location            = var.location
   resource_group_name = var.databricks_workspace_rg
 
