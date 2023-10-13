@@ -21,3 +21,4 @@ resource "databricks_sql_endpoint" "this" {
 
   depends_on = [databricks_sql_global_config.this]
 }
+
