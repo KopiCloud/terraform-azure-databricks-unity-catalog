@@ -6,7 +6,7 @@ Blog Part 1--> https://gmusumeci.medium.com/how-to-configure-azure-databricks-un
 ## Code creates:
 
 * Deploying SQL Warehouse
-* Creating the Databricks Access Connector
+* Creating the Databricks Access Connector for the Unity Catalog
 * Creating the Azure Storage Account for the Unity Catalog
 * Creating the Azure Storage Container for the Unity Catalog
 * Assigning Permissions to the Service Principal to the Storage Account
