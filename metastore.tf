@@ -24,8 +24,8 @@ resource "databricks_metastore_assignment" "primary" {
   depends_on = [ databricks_metastore.primary ]
 }
 
-// Each databricks_metastore requires a managed identity that will be assumed by Unity Catalog to access data. 
-resource "databricks_metastore_data_access" "this" {
+// Each databricks_metastore requires a managed identity that Unity Catalog will assume to access data. 
+resource "databricks_metastore_data_access" "primary" {
   metastore_id = databricks_metastore.primary.id
   name         = "primary"
   azure_managed_identity {
