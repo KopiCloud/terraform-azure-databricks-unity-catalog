@@ -10,7 +10,7 @@ resource "databricks_sql_global_config" "this" {
 
 // Create SQL Warehouse
 resource "databricks_sql_endpoint" "this" {
-  name             = "Standard"
+  name             = "kopicloud-sql-warehouse"
   cluster_size     = "2X-Small"
   min_num_clusters = 1
   max_num_clusters = 1
