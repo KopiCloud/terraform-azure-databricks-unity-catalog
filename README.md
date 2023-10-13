@@ -12,7 +12,18 @@ Blog Part 1--> https://gmusumeci.medium.com/how-to-configure-azure-databricks-un
 * Assigning Permissions to the Service Principal to the Storage Account
 * Creating the Databricks Metastore
 * Assigning the Metastore to the Workspace
-* Assigning the Acess Connector to the Metastore
+* Assigning the Access Connector to the Metastore
+
+Blog Part 2 --> https://gmusumeci.medium.com/how-to-configure-azure-databricks-unity-catalog-with-terraform-part-2-15e780514724
+
+* Managing Databricks Groups
+* Creating Azure Databricks Unity Catalog Account Groups
+* Creating Azure Databricks Workspace Groups
+* Creating Unity Catalog Objects in the Metastore
+* Creating a Databricks Catalog
+* Creating a Databricks Catalog with a Group Owner
+* Creating a Databricks Schema
+* Creating a Databricks Schema with a Group Owner
 
 ## How to use this code:
 
