@@ -14,7 +14,11 @@ Blog Part 1--> https://gmusumeci.medium.com/how-to-configure-azure-databricks-un
 * Assigning the Metastore to the Workspace
 * Assigning the Access Connector to the Metastore
 
+---
+
 Blog Part 2 --> https://gmusumeci.medium.com/how-to-configure-azure-databricks-unity-catalog-with-terraform-part-2-15e780514724
+
+## Code creates:
 
 * Managing Databricks Groups
 * Creating Azure Databricks Unity Catalog Account Groups
