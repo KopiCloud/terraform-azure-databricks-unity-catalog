@@ -29,6 +29,23 @@ Blog Part 2 --> https://gmusumeci.medium.com/how-to-configure-azure-databricks-u
 * Creating a Databricks Schema
 * Creating a Databricks Schema with a Group Owner
 
+---
+
+Blog Part 3 --> https://gmusumeci.medium.com/how-to-configure-azure-databricks-unity-catalog-with-terraform-part-3-8240f6e17ed2
+
+## Code creates:
+
+* Creating Databricks Access Connector for the External Storage Account
+* Creating Databricks Storage Credential
+* Creating the External Azure Storage Account
+* Creating Azure Storage Container for the External Storage Account
+* Assigning Permissions to the Databricks Access Connector to the Azure External Storage Account
+* Creating a Databricks External Location
+* Assigning Permissions to the Databricks External Location
+* Creating a Databricks Catalog for the External Table
+* Creating a Databrick Schema for the External Table
+* Creating a Databricks External Table
+
 ## How to use this code:
 
 * Update the file **terraform.tfvars** to adjust the code to your environment
